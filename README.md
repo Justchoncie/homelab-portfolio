@@ -47,3 +47,12 @@ See the screenshots folder for:
 - ISO 27001 Gap Analysis
 - Vulnerability Management
 
+
+## Project Breakdowns
+- [Monitoring Stack](projects/monitoring/README.md)
+- [Pi-hole DNS Filtering](projects/pihole/README.md)
+- [Nextcloud Self-Hosted Cloud](projects/nextcloud/README.md)
+- [Portainer Container Management](projects/portainer/README.md)
+
+## Resume
+Resume folder reserved for updated IT/Cybersecurity resume.
