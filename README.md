@@ -87,9 +87,9 @@ Docker container administration platform.
 
 Aspiring IT Support, Systems Administration, and Cybersecurity Professional
 
-🎖️ U.S. Army Veteran
+U.S. Army Veteran
 
-🎓 Associate of Science in Information Technology
+Associate of Science in Information Technology
 
 GitHub portfolio demonstrating Linux administration, Docker, monitoring, networking, automation, and self-hosted infrastructure.
 
