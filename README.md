@@ -53,3 +53,30 @@ Docker container administration platform.
 - Active Directory Lab
 - Vulnerability Scanning
 - ISO 27001 Gap Analysis
+
+## Home Lab Highlights
+
+- Ubuntu 24.04 Server
+- 17 Docker Containers
+- 3 Docker Stacks
+- Portainer Container Management
+- Pi-hole DNS Filtering
+- Grafana Monitoring
+- Prometheus Metrics Collection
+- cAdvisor Container Monitoring
+- Nextcloud Private Cloud
+- FileBrowser File Management
+- n8n Automation
+- Nginx Proxy Manager
+- Tailscale Remote Access
+
+## Lessons Learned
+
+- Built and maintained a Docker-based infrastructure environment.
+- Configured DNS filtering using Pi-hole.
+- Implemented monitoring with Grafana, Prometheus, Node Exporter, and cAdvisor.
+- Managed persistent Docker volumes and container networking.
+- Deployed self-hosted cloud storage with Nextcloud.
+- Configured secure remote access using Tailscale.
+- Used Portainer to manage and troubleshoot containers.
+- Created documentation, diagrams, and project reports.
