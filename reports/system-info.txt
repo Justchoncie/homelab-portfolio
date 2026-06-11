@@ -1,0 +1,13 @@
+ Static hostname: justchoncie-HP-EliteDesk-800-G2-DM-35W
+       Icon name: computer-desktop
+         Chassis: desktop 🖥️
+      Machine ID: f22f4cbcaf964aa29592f8aa540128c9
+         Boot ID: 4bf5122f947941ccbeac579c15b9617d
+Operating System: Ubuntu 24.04.4 LTS
+          Kernel: Linux 6.17.0-23-generic
+    Architecture: x86-64
+ Hardware Vendor: HP
+  Hardware Model: HP EliteDesk 800 G2 DM 35W
+Firmware Version: N21 Ver. 02.19
+   Firmware Date: Wed 2016-06-01
+    Firmware Age: 10y 1w 2d

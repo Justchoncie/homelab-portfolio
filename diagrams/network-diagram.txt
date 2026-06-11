@@ -1,0 +1,17 @@
+Internet
+    |
+ Tailscale
+    |
+HP EliteDesk Ubuntu Server (192.168.68.55)
+    |
+    +-- Docker
+         |
+         +-- Portainer (:9000)
+         +-- Homepage (:3000)
+         +-- Pi-hole (:8081)
+         +-- Grafana (:3001)
+         +-- Prometheus (:9090)
+         +-- cAdvisor (:8080)
+         +-- Nextcloud (:8082)
+         +-- FileBrowser (:8088)
+         +-- n8n (:5678)
