@@ -1,18 +1,15 @@
 # Pi-hole DNS Filtering
 
+![Pi-hole Dashboard](02-pihole-dashboard.jpeg)
+
 ## Objective
-Provide network-wide DNS filtering and visibility.
+Provide network-wide DNS filtering and monitoring.
 
-## Tools
-- Pi-hole
+## Technologies
 - Docker
-- Deco Router DHCP/DNS
+- Pi-hole
 
-## Skills Demonstrated
-- DNS administration
-- Network troubleshooting
-- Security filtering
-- Docker deployment
-
-## Outcome
-Configured Pi-hole as the primary DNS server and verified active queries and blocked domains.
+## Skills
+- DNS
+- Networking
+- Security

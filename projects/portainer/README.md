@@ -1,17 +1,15 @@
 # Portainer Container Management
 
-## Objective
-Manage Docker containers through a web dashboard.
+![Portainer Dashboard](07-portainer-dashboard.jpeg)
 
-## Tools
+## Objective
+Manage Docker containers through a web interface.
+
+## Technologies
 - Portainer
 - Docker
 
-## Skills Demonstrated
-- Container administration
-- Service health checks
-- Stack review
-- Infrastructure management
-
-## Outcome
-Used Portainer to manage and document running services in the home lab.
+## Skills
+- Container Management
+- Docker Administration
+- Service Monitoring

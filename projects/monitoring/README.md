@@ -1,19 +1,22 @@
 # Monitoring Stack
 
-## Objective
-Monitor the Ubuntu home lab and Docker containers.
+## Grafana
+![Grafana](03-grafana-dashboard.jpeg)
 
-## Tools
+## cAdvisor Main
+![cAdvisor Main](04-cadvisor-main-dashboard.png)
+
+## cAdvisor Filesystem
+![cAdvisor Filesystem](05-cadvisor-filesystem-dashboard.png)
+
+## Technologies
 - Grafana
 - Prometheus
 - Node Exporter
 - cAdvisor
 
-## Skills Demonstrated
-- System monitoring
-- Container metrics
-- Dashboard review
-- Performance troubleshooting
-
-## Outcome
-Created visibility into CPU, memory, disk, network, and container usage.
+## Skills
+- Monitoring
+- Linux
+- Docker
+- Troubleshooting
