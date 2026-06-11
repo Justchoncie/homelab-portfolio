@@ -80,3 +80,42 @@ Docker container administration platform.
 - Configured secure remote access using Tailscale.
 - Used Portainer to manage and troubleshoot containers.
 - Created documentation, diagrams, and project reports.
+
+---
+
+# Jacobi Ellis
+
+Aspiring IT Support, Systems Administration, and Cybersecurity Professional
+
+🎖️ U.S. Army Veteran
+
+🎓 Associate of Science in Information Technology
+
+GitHub portfolio demonstrating Linux administration, Docker, monitoring, networking, automation, and self-hosted infrastructure.
+
+## Career Goals
+
+Seeking opportunities in:
+
+- IT Support
+- Help Desk
+- Systems Administration
+- Cybersecurity
+- Technical Support
+
+Interested in roles where I can continue developing Linux, networking, cloud, automation, and security skills.
+
+## Certifications In Progress
+
+- CompTIA Security+ (In Progress)
+- Home Lab Infrastructure Portfolio
+- Continuous Linux Administration Training
+
+## Contact
+
+GitHub: https://github.com/Justchoncie
+
+LinkedIn: https://www.linkedin.com/in/jacobi-ellis-215854265
+
+Email: justchoncie@gmail.com
+
