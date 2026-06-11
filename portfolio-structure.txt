@@ -1,0 +1,207 @@
+.
+├── diagrams
+│   ├── network-diagram.md
+│   └── network-diagram.txt
+├── .git
+│   ├── branches
+│   ├── COMMIT_EDITMSG
+│   ├── config
+│   ├── description
+│   ├── HEAD
+│   ├── hooks
+│   │   ├── applypatch-msg.sample
+│   │   ├── commit-msg.sample
+│   │   ├── fsmonitor-watchman.sample
+│   │   ├── post-update.sample
+│   │   ├── pre-applypatch.sample
+│   │   ├── pre-commit.sample
+│   │   ├── pre-merge-commit.sample
+│   │   ├── prepare-commit-msg.sample
+│   │   ├── pre-push.sample
+│   │   ├── pre-rebase.sample
+│   │   ├── pre-receive.sample
+│   │   ├── push-to-checkout.sample
+│   │   ├── sendemail-validate.sample
+│   │   └── update.sample
+│   ├── index
+│   ├── info
+│   │   └── exclude
+│   ├── logs
+│   │   ├── HEAD
+│   │   └── refs
+│   │       ├── heads
+│   │       │   └── main
+│   │       └── remotes
+│   │           └── origin
+│   │               └── main
+│   ├── objects
+│   │   ├── 05
+│   │   │   └── a130137778618805d0f36bc29504c35f1e5028
+│   │   ├── 08
+│   │   │   └── ed72a28f9fb4a58dbc2b663a2259657fcf6040
+│   │   ├── 16
+│   │   │   ├── 3d0779b8092e67278687c5ccbbfbe155f54804
+│   │   │   └── 9643bffa023af90582bc34350183ae47dff4b5
+│   │   ├── 1f
+│   │   │   └── 906e1d4c4023641207f9e8df90cd1fc435b77f
+│   │   ├── 24
+│   │   │   └── 7105623e87ae155df9107c0d37d44f356a1e36
+│   │   ├── 25
+│   │   │   └── 2e8224a55969b9682eb6799034486db307f2c1
+│   │   ├── 28
+│   │   │   └── 59e617f24863244a1251e6f295c0ef3650f006
+│   │   ├── 29
+│   │   │   └── 4812a25a08fc70dd32087ee9319d254ba39d7f
+│   │   ├── 2c
+│   │   │   └── 4cd8dc0db37e3b60e67811fb7d7014072820ca
+│   │   ├── 2d
+│   │   │   └── 3a70bb4813e43501c5b09b83486c4073b4368f
+│   │   ├── 33
+│   │   │   └── 92c5e4bb6706c9bf418548370b3f774f9beba0
+│   │   ├── 34
+│   │   │   └── 9b87571175051e901cb6c925bf71d867bd039e
+│   │   ├── 47
+│   │   │   └── c02da367ed7b1ba844d88a0d7e308971349c65
+│   │   ├── 4d
+│   │   │   └── 5a64940affb8affbfa830319b2a21e405cfc60
+│   │   ├── 4e
+│   │   │   └── 5a1349d14e2a9d0ad3e8fcd865654fd673d6a4
+│   │   ├── 5d
+│   │   │   └── 9bf92988999d84d16ba9fe5501ebe06eba02b3
+│   │   ├── 63
+│   │   │   └── 1423fa75b07fac9efc452e6193dd0e2e8cc26f
+│   │   ├── 64
+│   │   │   └── 57cc59e5a2776a030da49e7e2df967a734e7d9
+│   │   ├── 66
+│   │   │   └── e0ac3800b6c42803624e920a2b936cf66477d7
+│   │   ├── 6c
+│   │   │   └── 82c0b14c5bfcb5c1ff43bfe696c18fac33b5cf
+│   │   ├── 6e
+│   │   │   ├── 83ba0bf7fd74d7e601faafe64bd3ccf1e6ba94
+│   │   │   └── a95279939f30ad8efea31e2d4150ecc0855101
+│   │   ├── 71
+│   │   │   └── 53288fc298986b269ac52a503495b8b94ecbf6
+│   │   ├── 74
+│   │   │   ├── 0795d21f59d06b6c3dc8b42b74b9f332843ef7
+│   │   │   └── 8a433e5d7b90e5b0a13cbfdcff0efbe627fe23
+│   │   ├── 75
+│   │   │   └── b2924f1ae7a400f5a410aab70479c6adf67a1c
+│   │   ├── 7d
+│   │   │   └── 35b214ea0f52e3eef07cf8e41bd5e8df8c064e
+│   │   ├── 80
+│   │   │   └── 63135bb20d7932e0e8b6393fff39a18d4e2846
+│   │   ├── 83
+│   │   │   └── 7dbd0f27a31080e7aee351be2b0b7373aaeae0
+│   │   ├── 85
+│   │   │   └── bea5ba0c02bcd52b755032e651d961fe402ca9
+│   │   ├── 87
+│   │   │   ├── 2b7432d7a2212a42ab152c0d52b1244a734990
+│   │   │   ├── 31c61ad79521e115450f24bab245ee7b6cdbbd
+│   │   │   └── c64efdea8b936d220d2ecb9cc5205afe54145c
+│   │   ├── 89
+│   │   │   └── 5c6163eda154873d1ed648874ac078dbb92240
+│   │   ├── 8f
+│   │   │   ├── eedc4f4743b1396285016904693bedda039e78
+│   │   │   └── f90aafc916b441d2c9174e733413bdeee8e4a5
+│   │   ├── 93
+│   │   │   └── 479775901be96a3ef5679fb72f9dc041afcd18
+│   │   ├── 94
+│   │   │   └── ce5e0a796a6a5afd43277362350527a9815278
+│   │   ├── 9b
+│   │   │   └── 9c20e793252c084a637ea5be25d5c069bd8e28
+│   │   ├── 9d
+│   │   │   └── aeafb9864cf43055ae93beb0afd6c7d144bfa4
+│   │   ├── 9e
+│   │   │   └── 19ae3e53cac052d9b7ee8646f4ba43a4cdc4e6
+│   │   ├── a1
+│   │   │   ├── 027ada8daf5c2db97c6c219208270a0c538b5b
+│   │   │   └── 52aad2db35074f7f25c8703579bf73571263dc
+│   │   ├── a3
+│   │   │   └── 2d7961efa2eba2fa13f8a7f0ce1116f10fd5fc
+│   │   ├── a6
+│   │   │   └── b157c9f8e3f866e9d67eadde20edee1375f232
+│   │   ├── ab
+│   │   │   └── cbdf4b14055e1b9ff3849dcf2426d9ff9cf35b
+│   │   ├── b7
+│   │   │   └── 0364be0cacfaea6793d147544a2bf0a8ecd53f
+│   │   ├── bf
+│   │   │   └── 6fdd9f81057733c46b60c88bfca9ff6e53d991
+│   │   ├── c0
+│   │   │   └── 64ec3352f3c2f685abd7fda120aff9e6c8d11e
+│   │   ├── c1
+│   │   │   └── d43a0c67e0b45e81a8264ee337cad4403075d1
+│   │   ├── c7
+│   │   │   └── 0d6cdbdb10ac30d6e5b44f6f71f8191e30fabd
+│   │   ├── c8
+│   │   │   ├── ce9040684e30a20a718c66ccb3d58e065f19bd
+│   │   │   └── fefda8c892d36d0c22d40fdcf490c0245761b1
+│   │   ├── ca
+│   │   │   ├── 7be69976f77b25facb5fb8878fb5b6e71e89f2
+│   │   │   └── ec9f985477044a1fe9df85c020428b72d85bd5
+│   │   ├── cb
+│   │   │   └── 0a0da7871d434c8b1adcaeaa4ee768a77eac41
+│   │   ├── cc
+│   │   │   └── 36a81013716c383f5ac298b4680aceb48a52af
+│   │   ├── ce
+│   │   │   └── 6b777998b993a89cdb1f654cfb72958782101a
+│   │   ├── d0
+│   │   │   └── 6c6096c09598bed7cd8efd44965f83f91ce743
+│   │   ├── d5
+│   │   │   └── 7b58f8db8047f4037ab0ae1ae520cdc3b8c3bf
+│   │   ├── d8
+│   │   │   └── 687277317deb9f841343253dfd664d998ea5b2
+│   │   ├── e0
+│   │   │   └── d41be5d80743cb26af89b9abacd12ac44cf27d
+│   │   ├── e1
+│   │   │   └── 37a1a55164ae7cca0a700b7fd9df79cb22bd0a
+│   │   ├── e2
+│   │   │   └── 999860edd84da69df72679398f5c29148d6550
+│   │   ├── e3
+│   │   │   └── 64ddc4e178bdd723c09119c723098dda74aaaa
+│   │   ├── e9
+│   │   │   └── db98bedad3a4910055cd4810be4e7c3b4f71d8
+│   │   ├── eb
+│   │   │   └── 0a49410ce2b5687d8d27558b9a85ea8d44fe86
+│   │   ├── f1
+│   │   │   └── 9ffa5541e2a0ddc6247da2f9f1e31e01a01bbc
+│   │   ├── f4
+│   │   │   └── 962a47d78b50df90782efee17625d814baab4f
+│   │   ├── fb
+│   │   │   └── fc145dc4432cc1ceb4a9245b39de1b6f6dae00
+│   │   ├── info
+│   │   └── pack
+│   └── refs
+│       ├── heads
+│       │   └── main
+│       ├── remotes
+│       │   └── origin
+│       │       └── main
+│       └── tags
+├── homelab-project.md
+├── portfolio-structure.txt
+├── projects
+│   ├── homepage
+│   │   ├── 01-homepage-dashboard.jpeg
+│   │   └── README.md
+│   ├── monitoring
+│   │   ├── 03-grafana-dashboard.jpeg
+│   │   ├── 04-cadvisor-main-dashboard.png
+│   │   ├── 05-cadvisor-filesystem-dashboard.png
+│   │   └── README.md
+│   ├── nextcloud
+│   │   ├── 06-nextcloud-dashboard.jpeg
+│   │   └── README.md
+│   ├── pihole
+│   │   ├── 02-pihole-dashboard.jpeg
+│   │   └── README.md
+│   └── portainer
+│       ├── 07-portainer-dashboard.jpeg
+│       └── README.md
+├── README.md
+├── reports
+│   ├── docker-containers.txt
+│   ├── homelab_inventory.txt
+│   └── system-info.txt
+└── resume
+
+89 directories, 116 files
