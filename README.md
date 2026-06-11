@@ -1,58 +1,55 @@
-# Ubuntu Home Lab Portfolio
+# Home Lab Portfolio
 
 ## Overview
-Built and maintained a self-hosted Ubuntu Server environment on an HP EliteDesk 800 G2 DM.
 
-## Hardware
-- HP EliteDesk 800 G2 DM
-- 4GB DDR4 RAM
-- 465GB SSD
+Self-hosted Ubuntu 24.04 home lab running on an HP EliteDesk 800 G2 DM.
 
-## Technologies
-- Ubuntu Server
+## Skills Demonstrated
+
+- Linux Administration
 - Docker
 - Portainer
-- Pi-hole
 - Grafana
 - Prometheus
 - cAdvisor
+- Pi-hole
 - Nextcloud
-- Homepage
+- Nginx Proxy Manager
 - FileBrowser
-- Tailscale
 - n8n
+- Tailscale
+- DNS Administration
+- Monitoring & Alerting
+- Troubleshooting
+- Self-Hosted Infrastructure
 
-## Skills Demonstrated
-- Linux Administration
-- Docker Container Management
-- Network Monitoring
-- DNS Filtering
-- Reverse Proxy Concepts
-- Remote Access Administration
-- Infrastructure Documentation
+## Projects
 
-## Screenshots
-See the screenshots folder for:
-- Homepage Dashboard
-- Grafana Dashboard
-- Pi-hole Dashboard
-- Nextcloud Dashboard
-- cAdvisor Dashboard
-- FileBrowser
+### Homepage Dashboard
+Central dashboard used to manage and monitor all lab services.
+
+### Pi-hole DNS Filtering
+Network-wide DNS filtering and visibility.
+
+### Monitoring Stack
+Grafana + Prometheus + cAdvisor monitoring environment.
+
+### Nextcloud Private Cloud
+Self-hosted cloud storage platform.
+
+### Portainer Container Management
+Docker container administration platform.
+
+## Infrastructure
+
+- Ubuntu 24.04
+- Docker
+- HP EliteDesk 800 G2 DM
+- 465GB SSD
 
 ## Future Projects
+
 - Wazuh SIEM
 - Active Directory Lab
-- Security Monitoring
+- Vulnerability Scanning
 - ISO 27001 Gap Analysis
-- Vulnerability Management
-
-
-## Project Breakdowns
-- [Monitoring Stack](projects/monitoring/README.md)
-- [Pi-hole DNS Filtering](projects/pihole/README.md)
-- [Nextcloud Self-Hosted Cloud](projects/nextcloud/README.md)
-- [Portainer Container Management](projects/portainer/README.md)
-
-## Resume
-Resume folder reserved for updated IT/Cybersecurity resume.
